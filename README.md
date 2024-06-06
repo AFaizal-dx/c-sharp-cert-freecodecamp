@@ -1,2 +1,2 @@
-# c-sharp-cert-freecodecamp
-C# Certification course to strengthen my foundation skills in C#
+# Foundational C# Certification course by FreeCodeCamp
+Free C# Certification course. Nuff said
